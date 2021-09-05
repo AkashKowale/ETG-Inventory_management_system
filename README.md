@@ -19,6 +19,7 @@ This system has 2 files
 1) Inventory_addition
 2) purchase_system
 
+
 1) Inventory_addition :- In this file we can add the new product in the inventory and also update the quantity of existing product.
 2) purchase_system :- This is the main program. In this we can purchase the products. This program generate the Billing amount (Billing System) as well as it update the quantity of product in the inventory and it generates the sales records also. Both the sales and inventory file is convert into the json file for further used and keep the file and record updated 
 
